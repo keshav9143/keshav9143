@@ -16,6 +16,7 @@ I am keen to work on **Machine Learning and Web Development projects** and activ
 Currently, I am learning **advanced concepts in Machine Learning and Web Development**, while building a solid foundation in **DSA, Object-Oriented Programming (OOP), and core computer science subjects**.
 
 My skill set includes **Machine Learning, Object-Oriented Programming, Web Development, and problem solving**.
+<h2>please mere profile dhek ka mereko koi job dedo</h2>
 
 ---
 
