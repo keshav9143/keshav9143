@@ -7,7 +7,8 @@
   </a>
 </p>
 
-<h1 align="center">Heyyaa, I'm Keshav gandu</h1>
+<h1 color=rbg(12,14,19) align="center">Heyyaa, I'm Keshav gandu</h1>
+
 
 I’m a **B.Tech 2nd Year Computer Science Engineering (AI & Machine Learning)** student with a strong interest in **Data Structures & Algorithms, core programming, and problem solving**. I enjoy building projects in **C++ and Python**, understanding how systems work internally, and writing clean, logical code.
 <h1>2000 PER HOUR</h1>
