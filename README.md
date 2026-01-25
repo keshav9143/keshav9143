@@ -10,7 +10,7 @@
 <h1 align="center">Heyyaa, I'm Keshav gandu</h1>
 
 I’m a **B.Tech 2nd Year Computer Science Engineering (AI & Machine Learning)** student with a strong interest in **Data Structures & Algorithms, core programming, and problem solving**. I enjoy building projects in **C++ and Python**, understanding how systems work internally, and writing clean, logical code.
-
+<h1>2000 PER HOUR</h1>
 I am keen to work on **Machine Learning and Web Development projects** and actively practice coding on platforms like **Codeforces and HackerRank**, which helps strengthen my analytical and problem-solving skills.
 <h1>AAJ AAPNA KONSA COLOUR KA KACCHA PEHNA H </h1>
 Currently, I am learning **advanced concepts in Machine Learning and Web Development**, while building a solid foundation in **DSA, Object-Oriented Programming (OOP), and core computer science subjects**.
