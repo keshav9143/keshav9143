@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/jiya429">
+  <a href="https://github.com/keshav9143">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/jiya-chaudhary-693454373">
+  <a href="https://www.linkedin.com/in/keshav-verma-3663a7392">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
