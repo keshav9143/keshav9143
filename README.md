@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">Heyyaa, I'm Jiya</h1>
+<h1 align="center">Heyyaa, I'm Keshav</h1>
 
 💻 C++ & DSA Enthusiast | AI/ML Learner | Java Developer | Problem Solver<br></p><br><br>I’m a **B.Tech Computer Science student** passionate about **Data Structures & Algorithms, Artificial Intelligence, Machine Learning and software development**.<br><br>I enjoy building projects in **C, C++, Java, and Python**, while strengthening my understanding of **Object-Oriented Programming (OOP), problem solving, and real-world system design**.<br><br>Currently, I am focused on **DSA, STL in C++, Java programming, Machine Learning, Deep Learning, and AI**, while continuously improving my coding and analytical skills.<br><br>🚀 **Projects I’ve Worked On**<br><br>🔹 **Anomaly Detection in CCTV Surveillance using CNN & LSTM**<br>Built an intelligent surveillance system capable of detecting suspicious or unusual activities from CCTV footage using **Convolutional Neural Networks (CNN)** and **Long Short-Term Memory (LSTM)** networks.<br><br>🔹 **LRU Cache Implementation (C++)**<br>Implemented an efficient **Least Recently Used (LRU) Cache** using **HashMap + Doubly Linked List** to achieve optimized **O(1)** operations.<br><br>🔹 **Phone Book Application (C)**<br>Built a contact management system with features like add, search, update, delete, and file handling.<br><br>🌱 **Currently Learning**<br><br>* Advanced DSA & STL in C++<br>* Machine Learning & Deep Learning<br>* Web Development<br>* Python Programming<br>* Competitive Programming<br><br>🚧 **Currently Exploring / Building**<br><br>* AI-based Smart Traffic Monitoring System<br>* Real-time Object Detection & Tracking using Deep Learning<br><br>---<br><br>
 
