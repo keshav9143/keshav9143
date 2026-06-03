@@ -18,7 +18,7 @@
 ## 👩‍💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/USERNAME_HERE/">
+  <a href="https://leetcode.com/keshav_9/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/USERNAME_HERE/">
