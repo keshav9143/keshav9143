@@ -131,159 +131,159 @@ Open To:
 
 ---
 
-# Featured Projects
+---
+
+# 🚀 Featured Projects
 
 <details open>
-<summary><h2>🫀 Heart Disease Prediction System</h2></summary>
 
-Machine Learning powered healthcare prediction platform capable of predicting heart disease risk using Artificial Neural Networks with a production-ready Flask backend.
+<summary><b>🫀 Heart Disease Prediction System</b></summary>
 
-| Category | Details |
+<br>
+
+### AI-powered healthcare prediction platform using Artificial Neural Networks.
+
+| Property | Details |
 |-----------|---------|
 | **Tech Stack** | Python • TensorFlow • Keras • Flask • NumPy • Pandas • Scikit-learn |
-| **Architecture** | ANN + REST API |
-| **Performance** | Real-time predictions |
-| **Security** | Server-side inference pipeline |
-| **Impact** | Healthcare AI demonstration project |
-| **Repository** | https://github.com/YOUR_USERNAME/heart-disease-prediction |
+| **Architecture** | ANN + Flask REST API |
+| **Performance** | Real-time prediction |
+| **Security** | Modular backend with server-side inference |
+| **Impact** | AI-powered healthcare prediction |
+| **Repository** | **Coming Soon** |
 
-### Highlights
+### 📌 Overview
 
-- Developed an Artificial Neural Network for disease prediction.
-- Built Flask REST APIs serving live predictions.
-- Implemented preprocessing and inference pipeline.
-- Production-ready modular architecture.
-- Easy deployment and scalability.
+Developed a machine learning application capable of predicting heart disease using Artificial Neural Networks trained on structured medical datasets. The trained model is deployed using Flask to provide real-time predictions through a REST API.
 
-### Skills Demonstrated
+### ✨ Key Features
 
-`Machine Learning`
-`Deep Learning`
-`TensorFlow`
-`Flask`
-`REST API`
-`Python`
-`Data Processing`
+- AI-powered disease prediction
+- Flask REST API
+- Data preprocessing pipeline
+- Trained ANN model
+- Modular architecture
+- Easy deployment
+
+### 🛠 Skills Demonstrated
+
+`Python` `TensorFlow` `Machine Learning` `Deep Learning` `Flask` `REST API` `NumPy` `Pandas`
 
 </details>
 
 ---
 
 <details>
-<summary><h2>⚡ High Performance Thread Safe LRU Cache</h2></summary>
 
-Enterprise-grade in-memory cache implementing constant time operations using Hash Maps and Doubly Linked Lists.
+<summary><b>⚡ High Performance Thread-Safe LRU Cache System</b></summary>
 
-| Category | Details |
+<br>
+
+### Enterprise-grade in-memory caching system built using Modern C++.
+
+| Property | Details |
 |-----------|---------|
 | **Tech Stack** | C++17 • STL |
 | **Complexity** | O(1) Get & Put |
-| **Performance** | Optimized Memory Access |
-| **Security** | RAII Memory Management |
-| **Impact** | System Design / Backend Engineering |
-| **Repository** | https://github.com/YOUR_USERNAME/lru-cache |
+| **Architecture** | Hash Map + Doubly Linked List |
+| **Performance** | Constant-time operations |
+| **Memory Management** | RAII + STL |
+| **Impact** | Backend/System Design |
+| **Repository** | **Coming Soon** |
 
-### Highlights
+### 📌 Overview
 
-- Constant-time cache operations.
-- Doubly Linked List implementation.
-- Hash Map indexing.
-- Modern C++ object-oriented design.
-- Modular reusable implementation.
-- Unit tested.
+Implemented a high-performance thread-safe Least Recently Used cache supporting constant-time insertion, retrieval, and eviction using efficient data structures.
 
-### Skills Demonstrated
+### ✨ Key Features
 
-`C++`
-`STL`
-`HashMap`
-`Linked List`
-`OOP`
-`System Design`
-`Memory Management`
+- O(1) Get operation
+- O(1) Put operation
+- Automatic eviction
+- Efficient memory management
+- Modular object-oriented design
+- Performance benchmarking
+
+### 🛠 Skills Demonstrated
+
+`C++` `STL` `Hash Map` `Linked List` `RAII` `OOP` `System Design`
 
 </details>
 
 ---
 
 <details>
-<summary><h2>🏎️ Car Racing Game</h2></summary>
 
-Interactive desktop racing game developed using Python and Pygame featuring keyboard controls and dynamic gameplay.
+<summary><b>🏎️ Car Racing Game</b></summary>
 
-| Category | Details |
+<br>
+
+### Interactive desktop racing game developed using Python and Pygame.
+
+| Property | Details |
 |-----------|---------|
 | **Tech Stack** | Python • Pygame |
-| **Game Engine** | Pygame |
-| **Performance** | Smooth Frame Updates |
-| **UI** | Interactive Game Loop |
-| **Impact** | Game Development Fundamentals |
-| **Repository** | https://github.com/YOUR_USERNAME/car-racing-game |
+| **Category** | Desktop Application |
+| **Rendering** | Pygame Graphics |
+| **Gameplay** | Keyboard Controlled |
+| **Performance** | Smooth animation |
+| **Repository** | **Coming Soon** |
 
-### Highlights
+### 📌 Overview
 
-- Keyboard-based controls.
-- Collision detection.
-- Dynamic obstacle generation.
-- Score tracking.
-- Smooth animation loop.
+Designed and developed an interactive car racing game featuring keyboard controls, dynamic obstacles, collision detection, score tracking, and continuous gameplay.
 
-### Skills Demonstrated
+### ✨ Key Features
 
-`Python`
+- Keyboard controls
+- Collision detection
+- Dynamic obstacle generation
+- Score tracking
+- Smooth game loop
+- Object-oriented implementation
 
-`Pygame`
+### 🛠 Skills Demonstrated
 
-`Game Development`
-
-`OOP`
-
-`GUI Programming`
+`Python` `Pygame` `Game Development` `GUI` `Object-Oriented Programming`
 
 </details>
 
 ---
 
-# Experience
+# 💼 Experience
 
-## Software Engineering Student
+## 🎓 Software Engineering Student
 
 **Graphic Era (2024 — Present)**
 
-Developing expertise in Software Engineering, Machine Learning, Artificial Intelligence, Data Structures & Algorithms, and Backend Development through academic coursework, personal projects, hackathons, and continuous self-learning.
+Currently pursuing a Bachelor's degree in Computer Science Engineering with specialization in Artificial Intelligence & Machine Learning while actively developing software projects and strengthening problem-solving skills.
 
 ### Responsibilities
 
-- Building full-stack and AI-based applications.
-- Solving Data Structures & Algorithms problems.
-- Learning scalable backend systems.
-- Exploring cloud technologies.
-- Contributing to personal open-source projects.
+- Building AI & Machine Learning applications
+- Solving Data Structures & Algorithms problems
+- Learning Backend Development
+- Exploring System Design
+- Practicing Competitive Programming
+- Building personal projects
 
 ### Core Skills
 
-`C++`
-`Python`
-`Machine Learning`
-`Data Structures`
-`Backend`
-`Git`
-`GitHub`
-`SQL`
+`C++` `Python` `Machine Learning` `Data Structures` `Git` `GitHub` `SQL` `Backend Development`
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|--------------|---------|
-| 🏆 DSA | Solved **300+** LeetCode problems |
-| 💻 Competitive Programming | Regular coding contests participation |
-| 🚀 Hackathon | College Hackathon Participant |
-| 🎓 Academic Excellence | **CGPA 9.2/10** |
-| 🤖 AI Projects | Built Machine Learning Applications |
+| Achievement | Details |
+|-------------|---------|
+| 🧠 **LeetCode** | Solved **300+ DSA Problems** |
+| 🚀 **Hackathon** | Participated in College-Level Hackathon |
+| 🎓 **Academics** | Maintained **9.2 CGPA** |
+| 💻 **Competitive Programming** | Regular Contest Participant |
+| 🤖 **AI Projects** | Developed Machine Learning Applications |
 
 </div>
 
