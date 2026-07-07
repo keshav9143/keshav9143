@@ -11,15 +11,11 @@
 ![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/AI%20%26%20ML-Specialization-7B2FF7?style=for-the-badge)
 ![](https://img.shields.io/badge/CGPA-9.2%2F10-success?style=for-the-badge)
-![](https://img.shields.io/badge/India-Dehradun-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Location-India-blue?style=for-the-badge)
 
 <br>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/keshav-verma-3663a7392/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -27,17 +23,15 @@
 <img src="https://img.shields.io/badge/Gmail-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/keshav9143">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7B2FF7)
-
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7B2FF7)
-
-![](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=7B2FF7)
+![](https://komarev.com/ghpvc/?username=keshav9143&style=for-the-badge&color=7B2FF7)
+![](https://img.shields.io/github/followers/keshav9143?style=for-the-badge&color=7B2FF7)
+![](https://img.shields.io/github/stars/keshav9143?style=for-the-badge&color=7B2FF7)
 
 </div>
 
@@ -45,11 +39,11 @@
 
 # About Me
 
-I'm **Keshav Verma**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** with a strong passion for building scalable software, solving algorithmic challenges, and creating intelligent systems.
+I'm **Keshav Verma**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** with a passion for building scalable software, solving algorithmic challenges, and creating intelligent systems.
 
-My interests span across **Software Engineering**, **Machine Learning**, **Backend Development**, **System Design**, and **Competitive Programming**. I enjoy transforming complex problems into efficient, elegant, and production-ready solutions.
+I enjoy working across **Software Engineering**, **Machine Learning**, **Backend Development**, **System Design**, and **Competitive Programming**. I believe in writing clean, maintainable, and efficient code while continuously improving my problem-solving skills.
 
-Currently, I'm focused on strengthening my expertise in Data Structures & Algorithms, AI/ML, Full Stack Development, and Open Source while preparing for top software engineering internships.
+Currently, I'm focused on strengthening my expertise in **Data Structures & Algorithms**, **AI/ML**, **Backend Development**, **Full Stack Development**, and **Open Source** while preparing for top software engineering internships.
 
 ### Open To
 
@@ -65,42 +59,32 @@ Currently, I'm focused on strengthening my expertise in Data Structures & Algori
 
 ## Programming Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,sql"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,sql" />
 </p>
 
 ## Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ## Backend & Databases
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,firebase"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,firebase" />
 </p>
 
 ## AI / ML
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,python"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,python" />
 </p>
 
 ## Cloud • DevOps • Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,azure"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,azure" />
 </p>
 
 ---
@@ -110,21 +94,21 @@ Currently, I'm focused on strengthening my expertise in Data Structures & Algori
 | Domain | Proficiency | Details |
 |:------|:-----------:|:---------|
 | Machine Learning | ⭐⭐⭐⭐☆ | Supervised Learning, Model Evaluation, Feature Engineering |
-| Deep Learning | ⭐⭐⭐⭐☆ | ANN, TensorFlow, Keras |
+| Deep Learning | ⭐⭐⭐⭐☆ | Artificial Neural Networks, TensorFlow, Keras |
 | Data Analysis | ⭐⭐⭐⭐☆ | NumPy, Pandas, Matplotlib |
 | Model Deployment | ⭐⭐⭐⭐☆ | Flask REST APIs |
-| Python | ⭐⭐⭐⭐⭐ | Data Science, ML Pipelines, Automation |
+| Python Development | ⭐⭐⭐⭐⭐ | Automation, Data Science, Machine Learning |
 | Problem Solving | ⭐⭐⭐⭐⭐ | Data Structures & Algorithms |
-| Database Systems | ⭐⭐⭐⭐☆ | MySQL, SQL Queries |
+| Database Systems | ⭐⭐⭐⭐☆ | SQL, MySQL |
 | Software Engineering | ⭐⭐⭐⭐☆ | OOP, Clean Code, Modular Design |
 
 ---
 
-## Current Focus
+# Current Focus
 
 ```yaml
 Learning:
-  - Advanced Data Structures
+  - Advanced Data Structures & Algorithms
   - System Design
   - Deep Learning
   - Backend Engineering
@@ -140,7 +124,7 @@ Exploring:
   - Open Source
 
 Open To:
-  - SWE Internship
+  - Software Engineering Internship
   - AI/ML Internship
   - Research Opportunities
 ```
