@@ -130,3 +130,161 @@ Open To:
 ```
 
 ---
+
+# Featured Projects
+
+<details open>
+<summary><h2>🫀 Heart Disease Prediction System</h2></summary>
+
+Machine Learning powered healthcare prediction platform capable of predicting heart disease risk using Artificial Neural Networks with a production-ready Flask backend.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python • TensorFlow • Keras • Flask • NumPy • Pandas • Scikit-learn |
+| **Architecture** | ANN + REST API |
+| **Performance** | Real-time predictions |
+| **Security** | Server-side inference pipeline |
+| **Impact** | Healthcare AI demonstration project |
+| **Repository** | https://github.com/YOUR_USERNAME/heart-disease-prediction |
+
+### Highlights
+
+- Developed an Artificial Neural Network for disease prediction.
+- Built Flask REST APIs serving live predictions.
+- Implemented preprocessing and inference pipeline.
+- Production-ready modular architecture.
+- Easy deployment and scalability.
+
+### Skills Demonstrated
+
+`Machine Learning`
+`Deep Learning`
+`TensorFlow`
+`Flask`
+`REST API`
+`Python`
+`Data Processing`
+
+</details>
+
+---
+
+<details>
+<summary><h2>⚡ High Performance Thread Safe LRU Cache</h2></summary>
+
+Enterprise-grade in-memory cache implementing constant time operations using Hash Maps and Doubly Linked Lists.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | C++17 • STL |
+| **Complexity** | O(1) Get & Put |
+| **Performance** | Optimized Memory Access |
+| **Security** | RAII Memory Management |
+| **Impact** | System Design / Backend Engineering |
+| **Repository** | https://github.com/YOUR_USERNAME/lru-cache |
+
+### Highlights
+
+- Constant-time cache operations.
+- Doubly Linked List implementation.
+- Hash Map indexing.
+- Modern C++ object-oriented design.
+- Modular reusable implementation.
+- Unit tested.
+
+### Skills Demonstrated
+
+`C++`
+`STL`
+`HashMap`
+`Linked List`
+`OOP`
+`System Design`
+`Memory Management`
+
+</details>
+
+---
+
+<details>
+<summary><h2>🏎️ Car Racing Game</h2></summary>
+
+Interactive desktop racing game developed using Python and Pygame featuring keyboard controls and dynamic gameplay.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python • Pygame |
+| **Game Engine** | Pygame |
+| **Performance** | Smooth Frame Updates |
+| **UI** | Interactive Game Loop |
+| **Impact** | Game Development Fundamentals |
+| **Repository** | https://github.com/YOUR_USERNAME/car-racing-game |
+
+### Highlights
+
+- Keyboard-based controls.
+- Collision detection.
+- Dynamic obstacle generation.
+- Score tracking.
+- Smooth animation loop.
+
+### Skills Demonstrated
+
+`Python`
+
+`Pygame`
+
+`Game Development`
+
+`OOP`
+
+`GUI Programming`
+
+</details>
+
+---
+
+# Experience
+
+## Software Engineering Student
+
+**Graphic Era (2024 — Present)**
+
+Developing expertise in Software Engineering, Machine Learning, Artificial Intelligence, Data Structures & Algorithms, and Backend Development through academic coursework, personal projects, hackathons, and continuous self-learning.
+
+### Responsibilities
+
+- Building full-stack and AI-based applications.
+- Solving Data Structures & Algorithms problems.
+- Learning scalable backend systems.
+- Exploring cloud technologies.
+- Contributing to personal open-source projects.
+
+### Core Skills
+
+`C++`
+`Python`
+`Machine Learning`
+`Data Structures`
+`Backend`
+`Git`
+`GitHub`
+`SQL`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|--------------|---------|
+| 🏆 DSA | Solved **300+** LeetCode problems |
+| 💻 Competitive Programming | Regular coding contests participation |
+| 🚀 Hackathon | College Hackathon Participant |
+| 🎓 Academic Excellence | **CGPA 9.2/10** |
+| 🤖 AI Projects | Built Machine Learning Applications |
+
+</div>
+
+---
