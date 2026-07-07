@@ -104,32 +104,6 @@ Currently, I'm focused on strengthening my expertise in **Data Structures & Algo
 
 ---
 
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Data Structures & Algorithms
-  - System Design
-  - Deep Learning
-  - Backend Engineering
-
-Building:
-  - AI Powered Applications
-  - High Performance C++ Projects
-  - Full Stack Web Applications
-
-Exploring:
-  - Cloud Computing
-  - DevOps
-  - Open Source
-
-Open To:
-  - Software Engineering Internship
-  - AI/ML Internship
-  - Research Opportunities
-```
-
----
 
 ---
 
