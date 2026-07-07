@@ -288,3 +288,121 @@ Currently pursuing a Bachelor's degree in Computer Science Engineering with spec
 </div>
 
 ---
+
+---
+
+# 🏅 Certifications
+
+<div align="center">
+
+### AWS
+
+![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Learning-005BAC?style=for-the-badge)
+
+### Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Learning-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### Current Certifications
+
+![Machine Learning](https://img.shields.io/badge/Udemy-Machine%20Learning-A435F0?style=for-the-badge&logo=udemy)
+
+![Full Stack](https://img.shields.io/badge/Udemy-Full%20Stack-A435F0?style=for-the-badge&logo=udemy)
+
+![Python](https://img.shields.io/badge/Coursera-Python-0056D2?style=for-the-badge&logo=coursera)
+
+![DSA](https://img.shields.io/badge/Udemy-Data%20Structures%20%26%20Algorithms-A435F0?style=for-the-badge&logo=udemy)
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+
+<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</a>
+
+<a href="https://www.hackerrank.com/">
+
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+</a>
+
+<a href="https://www.codechef.com/">
+
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
+
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=keshav9143&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav9143&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=keshav9143&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=keshav9143&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav9143&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/keshav9143/keshav9143/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
