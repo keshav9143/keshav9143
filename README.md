@@ -406,3 +406,82 @@ Currently pursuing a Bachelor's degree in Computer Science Engineering with spec
 </div>
 
 ---
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced Data Structures & Algorithms
+  - System Design
+  - Backend Development
+  - Deep Learning
+  - Cloud Computing
+
+Building:
+  - AI Powered Applications
+  - High Performance C++ Projects
+  - Machine Learning Projects
+  - Full Stack Web Applications
+
+Exploring:
+  - Open Source
+  - DevOps
+  - Scalable Backend Systems
+  - Software Architecture
+
+Open To:
+  - Software Engineering Internship
+  - AI/ML Internship
+  - Open Source Collaboration
+  - Research Opportunities
+```
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:keshavverma071@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-keshavverma071%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/keshav-verma-3663a7392/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Keshav%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/keshav9143">
+
+<img src="https://img.shields.io/badge/GitHub-keshav9143-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+# 💜 Quote
+
+<div align="center">
+
+### *"Building intelligent systems, solving challenging problems, and continuously learning to become a better engineer every day."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:6A11CB,50:7B2FF7,100:2575FC"/>
+
+</div>
