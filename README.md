@@ -147,7 +147,7 @@ Developed a machine learning application capable of predicting heart disease usi
 
 ---
 
-<details>
+<details open>
 
 <summary><b>⚡ High Performance Thread-Safe LRU Cache System</b></summary>
 
@@ -186,7 +186,7 @@ Implemented a high-performance thread-safe Least Recently Used cache supporting 
 
 ---
 
-<details>
+<details open>
 
 <summary><b>🏎️ Car Racing Game</b></summary>
 
